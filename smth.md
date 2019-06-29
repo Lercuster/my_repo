@@ -3,4 +3,4 @@
 list:
 * first item
 * second item
-*etc
+* etc
